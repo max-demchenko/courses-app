@@ -1,0 +1,10 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px rgb(255, 0, 34);
+}
+
+.HeaderContent {
+    display: flex;
+    align-items: center;
+}

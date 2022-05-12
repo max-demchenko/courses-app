@@ -1,0 +1,12 @@
+.Courses{
+    border: solid 1px blue;
+}
+
+.coursesContainer {
+    padding: 0 10px;
+    margin-top: -10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

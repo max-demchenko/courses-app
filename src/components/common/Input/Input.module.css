@@ -1,0 +1,31 @@
+.Input {
+    height: 25px;
+    border: solid 1px orange;
+    padding: 0 5px;
+    margin: 5px 0 10px 10px;
+}
+
+.Textarea {
+    height: 100px;
+    width: 97%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: solid 1px yellow;
+    margin: 5px 10px 0px 10px;
+}
+
+.InputContainer {   
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    /* width: min-content; */
+}
+
+.width100{ 
+    width: 100%;
+}
+
+.label {
+    margin-left: 10px;
+    box-sizing: border-box;
+}

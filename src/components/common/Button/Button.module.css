@@ -1,0 +1,12 @@
+.Button {
+    height: 25px;
+    width: auto;
+    background-color: white;
+    border: solid 1px purple;
+    margin: 10px;
+    padding: 0 15px 0 15px;
+}
+
+.Button:hover {
+    background-color: rgba(128, 128, 128, 0.164);
+}
